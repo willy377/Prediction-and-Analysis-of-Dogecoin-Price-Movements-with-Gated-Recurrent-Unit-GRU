@@ -27,7 +27,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The following are the hyperparameters and their values ​​used in the process of building and training this prediction model:
 </p>
 
-<p align="center">
+
+<div align="center">
+ 
 | **Hyperparameter**    | **Value**             |
 |:---------------------:|:---------------------:|
 | Units                | 128                   |
@@ -39,7 +41,9 @@
 | Epochs              | 200                   |
 | Batch size          | 128                   |
 | Early stopping      | Patience (10)         |
-</p>
+
+</div>
+
 
 ## Results
 
