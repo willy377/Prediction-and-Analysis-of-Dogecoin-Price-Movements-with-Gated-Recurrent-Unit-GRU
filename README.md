@@ -4,7 +4,7 @@
 ## Introduction
 
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project, I have built a simple analysis tool as well as a prediction model for the price of Dogecoin using Gated Recurrent Units (GRU). GRU is a derivative of the Recurrent Neural Network (RNN) model which has undergone improvements, namely by having a simpler structure which only has an Update Gate and a Reset Gate. The following is an overview of the GRU architecture:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project, I have built a prediction model and simple analysis tool for dogecoin price movements using Gated Recurrent Units (GRU). GRU is a derivative of the Recurrent Neural Network (RNN) model which has undergone improvements, namely by having a simpler structure which only has an Update Gate and a Reset Gate. The following is an overview of the GRU architecture:
 </p>
 
 <p align="center"> 
