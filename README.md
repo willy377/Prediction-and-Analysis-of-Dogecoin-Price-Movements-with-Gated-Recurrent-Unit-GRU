@@ -137,5 +137,5 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-For details you can check my code : [Source Code.ipynb](https://github.com/willy377/Prediction_and_Analysis_of_Dogecoin_Price_Movements_with_Gated-Recurrent_Unit--GRU-/blob/main/Source%20Code.ipynb)
+For details you can check my code : [Source Code.ipynb](https://github.com/willy377/Prediction-and-Analysis-of-Dogecoin-Price-Movements-with-Gated-Recurrent-Unit-GRU/blob/main/Source%20Code.ipynb)
 
