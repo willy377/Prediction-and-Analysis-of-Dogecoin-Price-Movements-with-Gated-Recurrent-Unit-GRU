@@ -48,7 +48,7 @@
 ## Results
 
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prediction model results interpreted with several plot visualizations and evaluated with evaluation metrics among others namely MAE, MSE, RMSE and MAPE, to determine performance and level of accuracy is obtained by the prediction model is in predicting the price of Dogecoin, as well as presenting several visualizations of knowledge obtained from the daily historical dataset of Dogecoin. The following is a summary of interpretation and evaluation as a reference to determine the performance and level of accuracy obtained by the prediction model to predict the price of Dogecoin as well as several visualization results for analysis purposes:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prediction model results interpreted with several plot visualizations and evaluated with evaluation metrics among others namely MAE, MSE, RMSE and MAPE, aims to determine the performance and level of accuracy obtained by the prediction model in predicting Dogecoin price movements, as well as presenting several visualizations of knowledge obtained from the daily historical dataset of Dogecoin. The following is a summary of interpretation and evaluation as a reference to determine the performance and level of accuracy obtained by the prediction model to predicting Dogecoin price movements as well as several visualization results for analysis purposes:
 </p>
 
 ### - Plot Training and Validation Loss Over Epochs
