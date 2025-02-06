@@ -33,14 +33,14 @@
 | **Hyperparameter**    | **Value**             |
 |:---------------------:|:---------------------:|
 | Units                | 128                   |
-| Activation function  | tanh                  |
-| Dropout rate        | 0.4                   |
+| Activation Function  | tanh                  |
+| Dropout Rate        | 0.4                   |
 | Optimizer           | Adam                  |
-| Learning rate       | 0.001                 |
-| Loss function       | Mean Squared Error (MSE) |
+| Learning Rate       | 0.001                 |
+| Loss Function       | Mean Squared Error (MSE) |
 | Epochs              | 200                   |
-| Batch size          | 128                   |
-| Early stopping      | Patience (10)         |
+| Batch Size          | 128                   |
+| Early Stopping      | Patience (10)         |
 
 </div>
 
